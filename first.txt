@@ -1,2 +1,3 @@
 hello git
-new change. third class
+new change. third class.
+third cange
