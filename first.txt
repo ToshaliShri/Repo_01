@@ -4,4 +4,8 @@ third cange
 
 new change
 13th feb change
+<<<<<<< HEAD
 14 feb change 2
+=======
+14th feb change1
+>>>>>>> 8c28555659818d83ef77f407a575d7ccbb5d9f0c
